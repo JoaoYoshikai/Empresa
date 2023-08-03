@@ -1,0 +1,15 @@
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\bin\Debug\Empresa.pdb
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.Atualizar.resources
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.Cadastrar.resources
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.Consultar.resources
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.Excluir.resources
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.Form1.resources
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.Properties.Resources.resources
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.GenerateResource.cache
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.exe
+C:\Users\joao.pypcruz\source\repos\Empresa\Empresa\obj\Debug\Empresa.pdb
