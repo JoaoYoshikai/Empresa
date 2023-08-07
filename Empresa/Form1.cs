@@ -16,6 +16,8 @@ namespace Empresa
         Consultar con;
         Atualizar atu;
         Excluir exc;
+        DAO consul;
+        
         
         
         public Form1()
@@ -26,7 +28,11 @@ namespace Empresa
             con = new Consultar();
             atu= new Atualizar();
             exc= new Excluir();
+            consul = new DAO();
+            
         }//fim do construtor
+
+        
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -59,5 +65,9 @@ namespace Empresa
             exc.ShowDialog();//abre a tela
         }//excluir
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }//fim da classe
 }// fim do projeto
